@@ -33,12 +33,37 @@
 			</nav>
 
 		</header>
+
 		<main>
 			<div class="container-fluid">
-				<div></div>
-				<div></div>
+				<div class="row">
+					<div class="col-xs-12">
+						<div class="jumbotron">
+							<h1>Bootstrap example 2</h1>
+							<p>Cat snacks. Rub face on owner has closed eyes but still sees you lick sellotape so cats secretly make all the worlds muffins yet plan steps for world domination yet meow loudly just to annoy owners. Sit and stare give attitude stretch meow plan steps for world domination.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-4">
+						<div class="box text-center">
+							text area 1
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="box text-center">
+							text area 2
+						</div>
+					</div>
+					<div class="col-sm-4">
+						<div class="box text-center">
+							text area 3
+						</div>
+					</div>
+				</div>
 			</div>
 		</main>
+
 		<footer>
 
 		</footer>
