@@ -4,6 +4,7 @@
 		<?php
 		require_once("lib/head_utils.php");
 		?>
+		<link rel="stylesheet" href="css/style.css" type="text/css"/>
 	</head>
 	<body>
 		<div class="container">
